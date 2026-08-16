@@ -4,11 +4,11 @@
 
 **Wo Entwickler und Spieler zusammenarbeiten.**
 
-Open-Source-Addons für World of Warcraft — Retail & Classic.
+Quelloffene Addons für World of Warcraft — Retail & Classic.
 
 [![Website](https://img.shields.io/badge/Website-blazonui.de-d9a441?style=for-the-badge)](https://blazonui.de)
 [![Discord](https://img.shields.io/discord/1538310424334700574?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2)](https://blazonui.de/join)
-[![License](https://img.shields.io/badge/Lizenz-noch%20offen-333?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/Lizenz-Source--available-d9a441?style=for-the-badge)](https://github.com/blazonui/blazonui-addon/blob/main/LICENSE)
 
 </div>
 
