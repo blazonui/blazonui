@@ -7,7 +7,7 @@
 Open-Source-Addons für World of Warcraft — Retail & Classic.
 
 [![Website](https://img.shields.io/badge/Website-blazonui.de-d9a441?style=for-the-badge)](https://blazonui.de)
-[![Discord](https://img.shields.io/discord/1538310424334700574?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/maRPCsG9tv)
+[![Discord](https://img.shields.io/discord/1538310424334700574?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2)](https://blazonui.de/join)
 [![License](https://img.shields.io/badge/Lizenz-noch%20offen-333?style=for-the-badge)](#)
 
 </div>
@@ -33,10 +33,10 @@ Classic-Realms — sauber entwickelt, offen dokumentiert und langfristig gepfleg
 ### Mitmachen
 
 Bug gefunden oder eine Idee? Nutze `/report` bzw. `/suggest` in unserem
-[Discord](https://discord.gg/maRPCsG9tv) — landet automatisch als Issue hier auf GitHub.
+[Discord](https://blazonui.de/join) — landet automatisch als Issue hier auf GitHub.
 
 <div align="center">
 
-**[blazonui.de](https://blazonui.de) · [Discord beitreten](https://discord.gg/maRPCsG9tv)**
+**[blazonui.de](https://blazonui.de) · [Discord beitreten](https://blazonui.de/join)**
 
 </div>
